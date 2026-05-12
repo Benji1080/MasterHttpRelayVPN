@@ -6,8 +6,8 @@
 		"mail.google.com",
 		"accounts.google.com"
 	],
-	"script_id": "YOUR_APPS_SCRIPT_DEPLOYMENT_ID",
-	"auth_key": "CHANGE_ME_TO_A_STRONG_SECRET",
+	"script_id": "AKfycbyPsnC3Wz41BWE0So8GGDqqYvgUgpBQ5zYXYx1kNZsPb2k-T5DmuHY0YDlAMSZC3Wyt",
+	"auth_key": "edc3b338-db90-488d-92cb-a671fe804d49",
 	"listen_host": "127.0.0.1",
 	"http_port": 8085,
 	"socks5_port": 1080,
